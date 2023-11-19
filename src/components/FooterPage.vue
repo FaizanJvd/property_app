@@ -28,11 +28,11 @@
                 >
                   +971 52 599 1914
                 </span>
-                <span
+                <!-- <span
                   class="block text-sm font-medium hover:opacity-75 sm:text-sm"
                 >
                   jjjjj@gmain.com
-                </span>
+                </span> -->
               </p>
 
               <ul class="space-y-1 text-sm">
@@ -55,11 +55,11 @@
                 >
                   +971 52 360 9369
                 </span>
-                <span
+                <!-- <span
                   class="block text-sm font-medium hover:opacity-75 sm:text-sm"
                 >
                   jjjjj@gmain.com
-                </span>
+                </span> -->
               </p>
 
               <ul class="space-y-1 text-sm">
