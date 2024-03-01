@@ -1,5 +1,5 @@
 <template>
-  // new commit
+  // new commit 2
   <LandingPage/>
 </template>
 
